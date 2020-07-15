@@ -9,7 +9,7 @@
       <p><b>地址：北京市海淀区上元村3号，信息楼9教北618，邮编100044</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="25%">
+    <td width="35%">
       <img src="/lin2.jpg" width="100%">
     </td>
   </tr>
