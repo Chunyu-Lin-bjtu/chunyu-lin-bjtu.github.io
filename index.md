@@ -7,7 +7,7 @@
       <p><b>北京交通大学 计算机与信息技术学院 信息科学研究所</b></p>
       <p><b>邮箱：cylin@bjtu.edu.cn</b></p>
       <p><b>地址：北京市海淀区上元村3号，信息楼9教北618，邮编100044</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="./index-en.html">English Version</a></p>
     </td>
     <td width="35%">
       <img src="./lin2.jpg" width="100%">
